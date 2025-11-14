@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912154873835",
+    "project_id": "vehicle-management-app-fae97",
+    "storage_bucket": "vehicle-management-app-fae97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912154873835:android:3519a21558d3d3e33d93ae",
+        "android_client_info": {
+          "package_name": "com.example.vehiclemanagementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtx7eaiIVAY8dPv-TiCCO9_Q14QWVcgrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
